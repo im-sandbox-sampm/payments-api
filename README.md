@@ -2,6 +2,7 @@
 
 Demo repository for **GHAS Campaigns + Copilot Autofix** video script.
 
+
 ## ⚠️ Warning
 
 This repository contains **intentionally vulnerable code** with SQL injection vulnerabilities for demonstration purposes.
@@ -40,3 +41,4 @@ The code should trigger multiple SQL injection alerts:
 - `get_orders_for_user()` - JOIN query with concatenation
 
 All alerts should have Copilot Autofix suggestions available.
+
